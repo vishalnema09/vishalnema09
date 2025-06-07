@@ -41,7 +41,7 @@ Let's connect and build something amazing together!
   <a href="https://linkedin.com/in/vishalnema01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vishal Nema LinkedIn" height="30" width="40" /></a>
   <a href="https://twitter.com/vishalnema09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vishal Nema Twitter" height="30" width="40" /></a>
   <a href="https://instagram.com/vishalnema09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Vishal Nema Instagram" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/vishalnema01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vishal Nema LeetCode" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/vishalnema09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Vishal Nema LeetCode" height="30" width="40" /></a>
   <a href="mailto:vishalnema23@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Vishal Nema" height="30" /></a>
 </p>
 
